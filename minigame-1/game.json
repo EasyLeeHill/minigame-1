@@ -1,0 +1,10 @@
+{
+  "deviceOrientation": "portrait",
+  "usingComponents": {
+    "gameinfo": "./js/runtime/gameinfo.js",
+    "game": "./game.js"
+  },
+  "networkTimeout": {
+    "request": 5000
+  }
+}
